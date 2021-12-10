@@ -1,0 +1,37 @@
+.calendar-sidebar > span#sidebarToggler, .royal-navy #eventListToggler {
+    background-color: #dadada !important;
+    box-shadow: none!important;
+}
+
+#calendar, .calendar-inner {
+    min-height: 620px;
+}
+
+.royal-navy .calendar-sidebar, .royal-navy .calendar-events {
+    background-color: #146082;
+}
+
+button.icon-button > span.bars, button.icon-button > span.bars:after, button.icon-button > span.bars:before {
+    background-color: #222!important;
+}
+button.icon-button > span.chevron-arrow-right {
+    border-right-color: #222;
+    border-bottom-color: #222;
+}
+.royal-navy .calendar-sidebar > .month-list > .calendar-months > li {
+    border-top-right-radius: .25rem;
+    border-bottom-right-radius: .25rem;
+}
+
+.event-container > .event-info > p.event-title {
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.royal-navy .calendar-sidebar {
+    box-shadow: none;
+}
+
+.royal-navy button.icon-button > span.bars {
+    top: -4px;
+}

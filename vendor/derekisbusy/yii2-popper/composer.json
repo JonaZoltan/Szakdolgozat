@@ -1,0 +1,21 @@
+{
+    "name": "derekisbusy/yii2-popper",
+    "description": "Popper.js assets for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," tooltips"," poppers"," popper"," popups"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Derek Gifford",
+            "email": "derekisbusy@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "derekisbusy\\popper\\": ""
+        }
+    }
+}

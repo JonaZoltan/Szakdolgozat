@@ -1,0 +1,10 @@
+prompt.cmd
+runtime/**
+assets/**
+phpmyadmin/**
+excel
+.idea
+nbproject
+config/db.php
+cphp.bat
+/excel/
